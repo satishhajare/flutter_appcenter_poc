@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       title: 'Counter App',
-      home: MyHomePage(title: 'Appcenter plugin example '),
+      home: MyHomePage(title: 'Appcenter plugin Sample '),
     );
   }
 }
